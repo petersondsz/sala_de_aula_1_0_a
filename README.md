@@ -2,4 +2,4 @@
 
 Este projeto pertence a DSZ Dev & Media
 
-Obrigado
+Obrigado cara pálida.
