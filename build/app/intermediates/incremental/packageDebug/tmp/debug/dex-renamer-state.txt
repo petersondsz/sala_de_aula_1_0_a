@@ -1,0 +1,4 @@
+#Sat May 18 12:42:22 BRT 2019
+base.0=J\:\\PROGRAMACAO\\PROJS\\sala_de_aula_1_0_a\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
