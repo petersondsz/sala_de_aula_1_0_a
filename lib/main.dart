@@ -12,7 +12,7 @@ class Sala_de_Aula_APP extends StatelessWidget {
           title: const Text('Sala de Aula - ALPHA'),
         ),
         body: const Center(
-          child: const Text('0.1a.007  ALPHA'),
+          child: const Text('0-1-008 ALPHA'),
         ),
       ),
     );
