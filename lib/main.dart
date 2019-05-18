@@ -9,7 +9,7 @@ class Sala_de_Aula_APP extends StatelessWidget {
       title: 'Sala de Aula',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Sala de Aula 0.1a - Beta'),
+          title: const Text('Sala de Aula - ALPHA'),
         ),
         body: const Center(
           child: const Text('Sala de Aula 0.1a ALPHA'),
