@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
                 ]
               ),
               child:
-                new Text('Eu sou o amigo do Claudio'),
+                new Text('Eu sou o amigo do Mateus'),
               ),
             ),
           ],
