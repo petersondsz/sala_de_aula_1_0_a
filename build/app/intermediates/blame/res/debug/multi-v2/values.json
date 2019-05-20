@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "J:\\PROGRAMACAO\\REPOS\\sala_de_aula_1_0_a\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\dev\\proj-sala-de-aula\\sala_de_aula_1_0_a\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "J:\\PROGRAMACAO\\REPOS\\sala_de_aula_1_0_a\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\dev\\proj-sala-de-aula\\sala_de_aula_1_0_a\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
