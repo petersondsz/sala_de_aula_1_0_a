@@ -43,12 +43,7 @@ class MyApp extends StatelessWidget {
                 ]
               ),
               child:
-                new Text('Eu toco Saxophone'),
-                new Text('E eu dou marretada'),
-                new Text('em quem toca saxofone'),
-                new Text('KKKKKKK'),
-                new Text('Se aprume homi !!!'), 
-                new Text('Vá te lascah !!!'),                                
+                Text('Sala de Aula 0.1a'),
               ),
             ),
           ],
